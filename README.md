@@ -1,3 +1,3 @@
 # String-Reverse
 Hi there!
-We all know what id does, right?
+We all know what it does, right?
